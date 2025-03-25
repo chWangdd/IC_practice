@@ -1,0 +1,2 @@
+CHECK your SDF　DIRECTORY when you run into GATESIM ERROR, cause you gonna set it yourself and let the code read your hardware information
+REMEMBER to ADD (+tb1 +tb2) ...... according to official files, I provide library, license and tools needed for simulation 
