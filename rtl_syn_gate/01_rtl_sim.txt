@@ -1,0 +1,1 @@
+vcs -R -full64 -v2005 +v2k -sverilog tb.v core.v -debug_access+all +notimingcheck +access+r +vcs+fsdbon 

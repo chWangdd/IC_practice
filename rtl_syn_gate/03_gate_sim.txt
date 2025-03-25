@@ -1,0 +1,1 @@
+vcs tb.v core_syn.v -v /home/raid7_2/course/cvsd/CBDK_IC_Contest_v2.5/Verilog/tsmc13_neg.v -full64 -R -debug_access+all +v2k +maxdelays -negdelay +neg_tchk +define+SDF
